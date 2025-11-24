@@ -4,11 +4,11 @@ Continuous Assessment
 HTTP Chat Application Assignment
 --------------------------------
 Student Names:
-D.M.M.V Devinda
-M.D.H.R Karanayaka
-E.K Amarasinghe
-J.W.B.R Mihiranga
-G.K.D Nayanajith
+1. D.M.M.V Devinda - IT_IFLS_001/B003/0005
+2. M.D.H.R Karanayaka - IT_IFLS_001/B003/0024
+3. E.K. Amarasinghe - IT_IFLS_001/B003/0002
+4. J.B.W.R Mihiranga - IT_IFLS_001/B003/0031
+5. G.K.D Nayanajith - IT_IFLS_001/B003/0033
 
 1. Overview
    This is a secure (HTTPS) chat application hosted on Google Cloud using Docker.
@@ -25,7 +25,7 @@ G.K.D Nayanajith
    1. Navigate to the project folder.
    2. Build the docker image: "sudo docker build -t secure-chat ."
    3. Run the container: "sudo docker run -d -p 443:443 secure-chat"
-   4. Access via browser: https://<VM_EXTERNAL_IP>
+   4. Access via browser: https://34.131.165.237
 
 5. API Endpoints
    - GET /            : Loads the UI
