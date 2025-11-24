@@ -1,8 +1,6 @@
 # HTTP-Chat-Application
 This is a continuous assessment to create an HTTP chat application between 2 VMs using Google Cloud/AWS.
 
-# ☁️ Dual-Mode Secure Cloud Chat Application
-
 > **Module:** Designing & Developing Applications on Cloud (IT4118)  
 > **Assignment:** HTTP Chat Application (Continuous Assessment)  
 > **Platform:** Google Cloud Platform (GCP)
