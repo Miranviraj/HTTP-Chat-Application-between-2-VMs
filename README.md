@@ -32,6 +32,8 @@ This project implements a robust **Hybrid Communication System** deployed on Goo
 
 The system follows a **Client-Server** model hosted on a GCP Compute Engine instance with a **Static IP**. It handles traffic on two distinct ports simultaneously.
 
+![Architecture Diagram](https://github.com/Miranviraj/HTTP-Chat-Application-between-2-VMs/blob/main/Architecture%20diagram.png?raw=true)
+
 ---
 
 ## 📋 3. Prerequisites
