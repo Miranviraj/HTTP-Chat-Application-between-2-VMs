@@ -1,5 +1,5 @@
-# HTTP-Chat-Application-between-2-VMs
-Continuous Assessment
+# HTTP-Chat-Application
+This is a continuous assessment to create an HTTP chat application between 2 VMs using Google Cloud/AWS.
 
 HTTP Chat Application Assignment
 --------------------------------
