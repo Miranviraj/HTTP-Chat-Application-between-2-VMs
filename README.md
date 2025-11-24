@@ -55,15 +55,15 @@ Before running the application, ensure the following environment is configured:
 
 ## 📂 4. Project File Structure
 
-/chat-app
+/chat-app<br>
 ├── app.py              # 🌐 Web Server Logic (Flask)<br>
 ├── server.py           # 💻 Terminal Server Logic (Sockets)<br>
 ├── client.py           # 💻 Terminal Client Logic (Sockets)<br>
 ├── Dockerfile          # 🐳 Container instructions<br>
-├── requirements.txt    # 📦 Python Dependencies<br>
+├── requirements.txt    # 📦 Python Dependencies (Flask)<br>
 ├── cert.pem, key.pem   # 🔒 SSL Certificates<br>
 └── /templates<br>
-    └── index.html      # 🎨 Frontend UI
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;└── index.html      # 🎨 Frontend UI
 
 ---
 
