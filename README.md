@@ -4,11 +4,11 @@ Continuous Assessment
 HTTP Chat Application Assignment
 --------------------------------
 Student Names:
-1. D.M.M.V Devinda - IT_IFLS_001/B003/0005
-2. M.D.H.R Karanayaka - IT_IFLS_001/B003/0024
-3. E.K. Amarasinghe - IT_IFLS_001/B003/0002
-4. J.B.W.R Mihiranga - IT_IFLS_001/B003/0031
-5. G.K.D Nayanajith - IT_IFLS_001/B003/0033
+- D.M.M.V Devinda - IT_IFLS_001/B003/0005
+- M.D.H.R Karanayaka - IT_IFLS_001/B003/0024
+- E.K. Amarasinghe - IT_IFLS_001/B003/0002
+- J.B.W.R Mihiranga - IT_IFLS_001/B003/0031
+- G.K.D Nayanajith - IT_IFLS_001/B003/0033
 
 1. Overview
    This is a secure (HTTPS) chat application hosted on Google Cloud using Docker.
