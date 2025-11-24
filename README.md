@@ -75,11 +75,9 @@ To utilize the Dual-Mode capability, follow these steps on the Server (VM1).
 1. Start the Web Server (Background). This runs the HTTPS web app inside a Docker container.
 ```
 # Build the image
-
 sudo docker build -t secure-chat .
 
 # Run in detached mode (-d)
-
 sudo docker run -d -p 443:443 secure-chat
 ```
 
